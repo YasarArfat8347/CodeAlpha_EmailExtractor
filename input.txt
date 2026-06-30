@@ -1,0 +1,9 @@
+Hello John,
+
+Please contact us at support@gmail.com for technical support.
+
+You can also email admin@yahoo.com or hr@codealpha.tech for job-related queries.
+
+Our backup email is test123@example.org.
+
+Thank you!
