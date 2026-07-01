@@ -54,6 +54,6 @@ python email_extractor.py
 
 ## 👨‍💻 Author
 
-**VIJAYASARATHY B**
+**YASAR ARFAT I**
 
-GitHub: https://github.com/Vijay-1420
+GitHub: https://github.com/YasarArfat8347
